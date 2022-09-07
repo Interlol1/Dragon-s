@@ -1,7 +1,7 @@
 {
 	"Prefijo": "/",
 	"LenguajeDelBot": "es",
-	"NombreDelBot": "Drako|Bot",
+	"NombreDelBot": "Drako's|Bot",
 	"ControladorDelBot": [
 		"51995386439@s.whatsapp.net",
 		"52900000000@s.whatsapp.net",
@@ -11,9 +11,9 @@
 	],
 	"Propietario": "Dragon's",
 	"MyPais": "51",
-	"MiembrosMinimoEnUnGrupo": "3",
+	"MiembrosMinimoEnUnGrupo": "2",
 	"LimiteParaUsarComandos": "20",
-	"TusRedesSociales": "[ > ] Canal de Youtube:\n- https://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA\n\n[ f ] Página de Facebook:\n- https://fb.watch/b7pj-i5ejP/\n\n[Ꮄ] Tiktok:\n- https://vm.tiktok.com/ZMLjAbySN/\n\n*_Muchisimas gracias por tu apoyo mi king!!!_* :3",
+	"TusRedesSociales": "[ > ] Canal de Youtube:\n- https://youtube.com/\n\n[ f ] Página de Facebook:\n- https://Facebook.com\n\n[Ꮄ] Tiktok:\n- https://vm.tiktok.com//\n\n*_Muchisimas gracias por tu apoyo mi king!!!_* :3",
 	"ApiRest": "https://latam-api.vercel.app/",
         "CtrlG": ""
 }
